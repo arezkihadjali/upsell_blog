@@ -1,0 +1,16 @@
+.comment{
+    margin: 5px;
+    background-color: #f7f7f7;
+    padding: 8px;
+}
+.comment-text {
+    padding: 5px;
+}
+.no-radius {
+    border-radius: 0px;
+}
+.article {
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin-top: 10px;
+}
